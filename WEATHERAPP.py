@@ -1,4 +1,4 @@
-
+from builtins import print
 import sys
 import requests
 from PyQt5.QtWidgets import (QApplication, QWidget, QLabel, 
